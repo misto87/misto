@@ -1,1 +1,21 @@
 
+manifestVersion: 1
+id: misto-atvloadly
+category: utilities
+name: atvloadly
+version: "1.0.0"
+tagline: Sideload IPAs to Apple TV
+description: >-
+  Web-based sideloading service for Apple TV. Lets you install IPA files
+  directly from the browser and keeps them refreshed automatically.
+port: 5533
+gallery:
+  - 1.jpg
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+submitter: Torben
+submission: https://github.com/bitxeno/atvloadly
+website: https://github.com/bitxeno/atvloadly
+repo: https://github.com/bitxeno/atvloadly
+support: https://github.com/bitxeno/atvloadly/issues
