@@ -1,0 +1,19 @@
+manifestVersion: 1
+id: misto-isponsorblocktv
+category: media
+name: iSponsorBlockTV
+version: "1.0.0"
+tagline: Skip ads and sponsors on YouTube TV apps
+description: >-
+  Connects to YouTube on Apple TV and other TV devices, skips
+  sponsor segments and mutes/skips ads automatically.
+port: 5534
+gallery: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+submitter: Misto
+submission: https://github.com/dmunozv04/iSponsorBlockTV
+website: https://github.com/dmunozv04/iSponsorBlockTV
+repo: https://github.com/dmunozv04/iSponsorBlockTV
+support: https://github.com/dmunozv04/iSponsorBlockTV/issues
