@@ -1,0 +1,26 @@
+manifestVersion: 1
+id: misto-snapprint
+category: files
+name: SnapPrint
+version: "0.1.0"
+tagline: Slice and send prints to your Snapmaker U1 from your phone
+description: >-
+  Slice server for the Snapmaker U1. Upload 3MF or STL files from Safari on
+  your iPhone, slice them on your Umbrel with the official Snapmaker Orca
+  profiles and send the G-code to the U1 via Moonraker. Multicolor works with
+  pre-painted 3MF files (up to 4 colors, one per toolhead); STL files are
+  printed in a single color. Prints only start after explicit confirmation.
+releaseNotes: >-
+  First test version.
+developer: misto87
+website: https://github.com/misto87/snapprint
+submitter: Misto
+submission: https://github.com/misto87/snapprint
+repo: https://github.com/misto87/snapprint
+support: https://github.com/misto87/snapprint/issues
+port: 5535
+gallery: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+dependencies: []
