@@ -2,7 +2,7 @@ manifestVersion: 1
 id: misto-snapprint
 category: files
 name: SnapPrint
-version: "0.1.0"
+version: "0.2.0"
 tagline: Slice and send prints to your Snapmaker U1 from your phone
 description: >-
   Slice server for the Snapmaker U1. Upload 3MF or STL files from Safari on
@@ -11,7 +11,10 @@ description: >-
   pre-painted 3MF files (up to 4 colors, one per toolhead); STL files are
   printed in a single color. Prints only start after explicit confirmation.
 releaseNotes: >-
-  First test version.
+  All Snapmaker Orca process and filament settings (about 300 + 80 options,
+  same layout and German labels as in Orca) with simple/expert view and search,
+  user presets saved on the Umbrel, settings from U1 project 3MFs are kept,
+  detection of used colours in painted 3MFs, renamed download button.
 developer: misto87
 website: https://github.com/misto87/snapprint
 submitter: Misto
